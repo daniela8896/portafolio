@@ -1,7 +1,8 @@
 header{
-    height: 100vh;
-    padding-top: 7rem;
+    height: 150vh;
+    padding-top: 1rem;
     overflow: hidden;
+    padding-bottom: 2rem;
 }
 
 .header__container{
@@ -47,12 +48,12 @@ header{
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 4rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
-    background-position: center;
-    background-size: cover;
+    padding: 2rem 1rem 1.5rem 1.5rem;
+    
     
 }
 
@@ -69,18 +70,20 @@ header{
 
 /*========= media queries (medida media) ========*/
 
-@media screen and(max-width: 1024) {
+@media (max-width: 900px) {
   header{
-      height: 60vh;
+      height: 150vh;
   }
 }
 
-@media screen and(max-width: 600) {
+@media (max-width: 500px) {
   header{
-      height: 100vh;
+      height: 130vh;
 
   }
-  .header__socials,
+  .header__socials{
+      display: none;
+  }
   .scroll__down{
       display: none;
   }
