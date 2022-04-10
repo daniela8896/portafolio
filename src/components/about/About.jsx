@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import Me from '../../assets/me-about.jpg'
+import Me from '../../assets/danifondo-100.jpg'
 import { FaAward } from 'react-icons/fa'
 import { FaUsers } from 'react-icons/fa'
 import { VscFolderLibrary } from 'react-icons/vsc'
@@ -19,24 +19,25 @@ const About = () => {
           </div>
         </div>
         <div className="about__content">
+          <h2>Hola, soy Daniela. Un placer conocerte.</h2>
           <div className="about__cards">
             <article className="about__card">
               <FaAward className='about__icon' />
               <h5>Experiencia</h5>
-              <small>1 año en proyectos</small>
+              <small>En proyectos.</small>
             </article>
             <article className="about__card">
               <FaUsers className='about__icon' />
               <h5>Clientes</h5>
-              <small>Emprendimientos felices</small>
+              <small>Me encantaria ayudarte</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className='about__icon' />
               <h5>Proyectos</h5>
-              <small>En constante trabajo</small>
+              <small>Exitosos, con las mejores practicas</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo facilis voluptas exercitationem neque, aliquid quam voluptate iste ullam atque fugit ab doloremque magni odio in quos nulla? Et, perspiciatis est?</p>
+          <p>Soy desarrolladora full-stack, con experiencia en proyectos, cada dia aprendo cosas nuevas con cada proyecto que realizo, siempre en constante aprendizaje,  me encanta lo que hago, codigos limpios y paginas web seguras.</p>
           <a className='btn btn-primary'href="#contact">Contactame</a>
         </div>
       </div>

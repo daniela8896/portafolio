@@ -1,54 +1,54 @@
 import React from 'react'
 import './portafolio.css'
-import img1 from '../../assets/portfolio1.jpg'
-import img2 from '../../assets/portfolio2.jpg'
-import img3 from '../../assets/portfolio3.jpg'
-import img4 from '../../assets/portfolio4.jpg'
-import img5 from '../../assets/portfolio5.png'
-import img6 from '../../assets/portfolio6.jpg'
+import img1 from '../../assets/toqueneldom.png'
+import img2 from '../../assets/colorcake.png'
+import img3 from '../../assets/efs.png'
+import img4 from '../../assets/replica.png'
+import img5 from '../../assets/mockup-credimio.svg'
+import img6 from '../../assets/mockup-efs.svg'
 
 const datos = [
   {
     id: 1,
     image: img1,
-    title: 'primer proyecto',
-    github: 'https://github.com',
-    demo: 'https://facebook.com'
+    title: 'Toquen el Dom',
+    github: 'https://github.com/daniela8896/toquen-el-DOM',
+    demo: 'https://daniela8896.github.io/toquen-el-DOM/'
   },
   {
     id: 2,
     image: img2,
-    title: 'primer proyecto',
-    github: 'https://github.com',
-    demo: 'https://facebook.com'
+    title: 'Color cake',
+    github: 'https://github.com/daniela8896/color-cake',
+    demo: 'https://daniela8896.github.io/'
   },
   {
     id: 3,
     image: img3,
-    title: 'primer proyecto',
-    github: 'https://github.com',
-    demo: 'https://facebook.com'
+    title: 'EFS Software',
+    github: 'https://github.com/daniela8896/efs-software',
+    demo: 'https://daniela8896.github.io/efs-software/'
   },
   {
     id: 4,
     image: img4,
-    title: 'primer proyecto',
-    github: 'https://github.com',
-    demo: 'https://facebook.com'
+    title: 'Replica web',
+    github: 'https://github.com/daniela8896/replica-web',
+    demo: 'https://daniela8896.github.io/replica-web/#inicio'
   },
   {
     id: 5,
     image: img5,
-    title: 'primer proyecto',
-    github: 'https://github.com',
-    demo: 'https://facebook.com'
+    title: 'App Credimio',
+    github: 'https://github.com/daniela8896/AppCredimio',
+    demo: 'https://play.google.com/store/apps/details?id=com.efssoftware.appcredimio&hl=es_CO&gl=US'
   },
   {
     id: 6,
     image: img6,
-    title: 'primer proyecto',
+    title: 'App EFS Software',
     github: 'https://github.com',
-    demo: 'https://facebook.com'
+    demo: 'https://play.google.com/store/apps/details?id=com.efssoftware.appefssoftware&hl=es_CO&gl=US'
   },
 ]
 
@@ -66,7 +66,7 @@ const Portafolio = () => {
             return (
               <article key={id} className="portfolio__item">
                 <div className="portfolio__item-image">
-                  <img src={image} alt={title} />
+                  <img src={image} alt={title} className='img__portfolio'/>
                 </div>
                 <h3> {title} </h3>
                 <div className="portfolio__item-cta">

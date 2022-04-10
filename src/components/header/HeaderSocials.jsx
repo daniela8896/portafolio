@@ -6,9 +6,9 @@ import { BsFacebook} from 'react-icons/bs'
 const HeaderSocials = () => {
   return (
       <div className='header__socials'>
-          <a href="https://linkedin.com" target='_blank'><BsLinkedin/></a>
-          <a href="https://github.com" target='_blank'> <FaGithub /> </a>
-          <a href="https://instagram.com" target='_blank'> <BsFacebook /> </a>
+          <a href="https://linkedin.com" target='_blank'><BsLinkedin className='header__socials-link'/></a>
+      <a href="https://github.com" target='_blank'> <FaGithub className='header__socials-link'/> </a>
+      <a href="https://instagram.com" target='_blank'> <BsFacebook className='header__socials-link'/> </a>
     </div>
   )
 }
