@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.003660c1.css",
+    "main.js": "/portafolio/static/js/main.73fa0006.js",
+    "static/js/787.8e92ae5d.chunk.js": "/portafolio/static/js/787.8e92ae5d.chunk.js",
+    "static/media/ILUSTRACION.svg": "/portafolio/static/media/ILUSTRACION.a248a43fab88bf1fed34cf92479c5244.svg",
+    "static/media/mockup-efs.svg": "/portafolio/static/media/mockup-efs.8696c189ba2d3dba95ec9d5ebbb29544.svg",
+    "static/media/mockup-credimio.svg": "/portafolio/static/media/mockup-credimio.7395dcd4f0d74b42de9fdc29efacd1f4.svg",
+    "static/media/efs.png": "/portafolio/static/media/efs.9b66e5ba9bc47272811b.png",
+    "static/media/toqueneldom.png": "/portafolio/static/media/toqueneldom.d200fb46dc302f8c175d.png",
+    "static/media/danifondo-100.jpg": "/portafolio/static/media/danifondo-100.5ebdc073e723f9d944ce.jpg",
+    "static/media/colorcake.png": "/portafolio/static/media/colorcake.275b1287d828ef244124.png",
+    "static/media/CV Dani.pdf": "/portafolio/static/media/CV Dani.eb9bd4414300e8452e49.pdf",
+    "static/media/replica.png": "/portafolio/static/media/replica.435b813cdb48246a8be6.png",
+    "static/media/create-react-app.svg": "/portafolio/static/media/create-react-app.557dcd9a4b161f2097a887c6cd455f04.svg",
+    "static/media/mongodb.svg": "/portafolio/static/media/mongodb.153b7b440efa05666029a47da0d0baa0.svg",
+    "static/media/nodejs.svg": "/portafolio/static/media/nodejs.5a3a9ca294db0539884810b6e6eafedd.svg",
+    "static/media/mysql.svg": "/portafolio/static/media/mysql.88631d0de40f60cec048c5f2549eaf37.svg",
+    "static/media/LOGOTIPOD.svg": "/portafolio/static/media/LOGOTIPOD.47eb011206ff0fcd1ca81f4a70940b81.svg",
+    "static/media/materializecss.svg": "/portafolio/static/media/materializecss.105370479916c28f0a5afaa2e28e6a67.svg",
+    "static/media/php.svg": "/portafolio/static/media/php.8c49448ba31fd23639c1b1d37d18bc99.svg",
+    "static/media/wordpress-icon.svg": "/portafolio/static/media/wordpress-icon.50b2c04cd23dea0ec91585ce24e21efb.svg",
+    "static/media/python.svg": "/portafolio/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
+    "static/media/html-5.svg": "/portafolio/static/media/html-5.e7638e3676622c76a46ece6c46136fd4.svg",
+    "static/media/css-3.svg": "/portafolio/static/media/css-3.e7a9de36d9335d92932e93eb3b32deb9.svg",
+    "static/media/bootstrap.svg": "/portafolio/static/media/bootstrap.527d0fc09fb3280153c26f0046a517a9.svg",
+    "static/media/javascript.svg": "/portafolio/static/media/javascript.fd46ca41839433d73577989d86eb2fe2.svg",
+    "index.html": "/portafolio/index.html",
+    "main.003660c1.css.map": "/portafolio/static/css/main.003660c1.css.map",
+    "main.73fa0006.js.map": "/portafolio/static/js/main.73fa0006.js.map",
+    "787.8e92ae5d.chunk.js.map": "/portafolio/static/js/787.8e92ae5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.003660c1.css",
+    "static/js/main.73fa0006.js"
+  ]
+}
