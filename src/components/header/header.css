@@ -52,7 +52,7 @@ header{
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 1rem;
+    margin-top: 2rem;
     margin-bottom: 1rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
@@ -78,12 +78,16 @@ header{
   header{
       height: 150vh;
   }
+ 
 }
 
 @media (max-width: 500px) {
   header{
       height: 130vh;
 
+  }
+   h1{
+      font-size: 1.5rem;
   }
   .header__socials{
       display: none;

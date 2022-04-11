@@ -19,7 +19,7 @@ const About = () => {
           </div>
         </div>
         <div className="about__content">
-          <h2>Hola, soy Daniela. Un placer conocerte.</h2>
+          <h2>Hola, soy Daniela un placer conocerte.</h2>
           <div className="about__cards">
             <article className="about__card">
               <FaAward className='about__icon' />
@@ -37,7 +37,7 @@ const About = () => {
               <small>Exitosos, con las mejores practicas</small>
             </article>
           </div>
-          <p>Soy desarrolladora full-stack, con experiencia en proyectos, cada dia aprendo cosas nuevas con cada proyecto que realizo, siempre en constante aprendizaje,  me encanta lo que hago, codigos limpios y paginas web seguras.</p>
+          <p>Soy desarrolladora full-stack, con experiencia en proyectos, cada dia aprendo cosas nuevas con los proyectos que realizo, siempre en constante aprendizaje,  me encanta lo que hago, codigos limpios y paginas web seguras.</p>
           <a className='btn btn-primary'href="#contact">Contactame</a>
         </div>
       </div>

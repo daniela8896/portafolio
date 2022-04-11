@@ -11,7 +11,7 @@ const Header = () => {
     <header>
       <div className="container header__container">
         <img src={logo} alt="" width='200px' />
-        <h1>Dessarrolladora web full stack</h1>
+        <h1>Desarrolladora web full stack</h1>
        
         <div className='text-light'>
           <span style={{ color: 'var(--color-primary)', fontWeight: 'bold' }}>
