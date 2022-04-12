@@ -1,21 +1,21 @@
-<h1>Crud MVC PHP</h1>
+<h1>Portafolio</h1>
 
 
 <p><em> Educamás -> <a href="https://educamas.com.co/">Programate</a> Cohorte IV REEDOM DEVELOPER. 💻 </br>
 </em></p>
 
-Desarrollar una aplicación "CRUD" Web en PHP que permita pedir cita a los desarrolladores y equipos para solucionar problemas técnicos con la ayuda del formador o CTO.
+Crearemos nuestro portafolio online haciendo uso de HTML, CSS , JAVASCRIPT y REACT.
 
 <img src="./src/assets/ILUSTRACION.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
 ⚙️ Technologies
 
-☕️  Php
+☕️  HTML
 <br>
-☕️  JavaScript
+☕️  css
 <br>
-☕️  CSS and Bootstrap 5
+☕️  React
 
 ⚙️ Deploy available: https://daniela8896.github.io/portafolio/
 
