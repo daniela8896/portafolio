@@ -18,11 +18,14 @@
     cursor: default;
     
 }
+.H3{
+    color: var(--color-rosa-fuerte)
+}
 
 .experience__container > div h3{
 text-align: center;
 margin-bottom: 2rem;
-color: var(--color-bg);
+color: #FD49A0;
 }
 
 

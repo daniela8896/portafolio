@@ -37,7 +37,7 @@ footer a{
 
 .footer__socials a{
     background: var(--color-bg);
-    color: var(--color-white);
+    color: var(--color-rosa-fuerte);
     padding: 0.8rem;
     border-radius: 0.7rem;
     display: flex;

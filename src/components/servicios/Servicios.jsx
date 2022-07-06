@@ -19,7 +19,7 @@ const Servicios = () => {
               <BsCheckLg className='service__list-icon' />
               <p>Pienso que cada detalle en el diseño de una pagina marca una gran diferencia.</p>
             </li>
-           
+          
           </ul>
         </article>
         {/* fin ux */}
@@ -33,7 +33,7 @@ const Servicios = () => {
               <BsCheckLg className='service__list-icon' />
               <p>Codigos limpios.</p>
             </li>
-           
+          
             <li>
               <BsCheckLg className='service__list-icon' />
               <p>Accede a ellas desde tu movil o tablet</p>

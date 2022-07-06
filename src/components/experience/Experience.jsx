@@ -22,8 +22,8 @@ const Experience = () => {
       <h5>Mis habilidades</h5>
       <h2>Mi experiencia</h2>
       <div className="container experience__container">
-        <div className="experience__frontned">
-          <h3>Front-end</h3>
+        <div className="experience__frontend">
+          <h3> Front - end </h3>
           <div className="experience__content">
             <article className="experience__details">
               <img src={html} alt="" className='experience__details' width='50px'/>

@@ -78,7 +78,7 @@ section{
 
 section > h2, section > h5{
   text-align: center;
-  color: var(--color-light);
+  color: var(--color-rosa-fuerte);
 }
 
 section > h2 {
@@ -88,7 +88,7 @@ section > h2 {
 }
 
 .text-light{
-  color: var(--color-light);
+  color: var(--color-rosa-fuerte);
 }
 
 a{
@@ -97,7 +97,7 @@ a{
 }
 
 a:hover{
-  color: var(--color-white);
+  color: var(--color-rosa-fuerte);
 }
 
 .btn{
@@ -112,7 +112,7 @@ a:hover{
 }
 
 .btn:hover{
-  background: var(--color-white);
+  background: var(--color-rosa-fuerte);
   color: var(--color-bg);
   border-color: transparent;
 }
