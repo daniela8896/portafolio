@@ -2,12 +2,13 @@ import React from 'react'
 import './footer.css'
 import { BsFacebook } from 'react-icons/bs'
 import { BsInstagram } from 'react-icons/bs'
-import { BsTwitter} from 'react-icons/bs'
+import { BsTwitter } from 'react-icons/bs'
+import logo from '../../assets/imagotipoBlancoRosa.png'
 
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>CUTE CODE</a>
+      <a href="#" className='footer__logo'><img src={logo} alt="logo" width='300' height='200' /></a>
       
       <ul className='permalinks'>
         <li><a href='#'></a>Inicio </li>
@@ -15,7 +16,7 @@ const Footer = () => {
         <li><a href='#experience'></a>Experiencia </li>
         <li><a href='#services'></a>Servicios</li>
         <li><a href='#contact'></a>Contacto</li>
-       
+      
       </ul>
 
       <div className="footer__socials">
@@ -25,7 +26,7 @@ const Footer = () => {
       </div>
 
       <div className="foote__copyright">
-        <small>&copy; Daniela, Cute code. Derechos reservados</small>
+        <small>&copy; Daniela. Derechos reservados</small>
       </div>
     </footer>
   )

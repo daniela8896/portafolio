@@ -2,7 +2,7 @@ import React from 'react'
 import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/ILUSTRACION.svg'
-import logo from '../../assets/LOGOTIPOD.svg'
+import logo from '../../assets/imagotipoColor.svg'
 import HeaderSocials from './HeaderSocials'
 import { Typewriter } from 'react-simple-typewriter'
 
@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <header>
       <div className="container header__container">
-        <img src={logo} alt="" width='200px' />
+        <img src={logo} alt="" width='300px' height='300' />
         <h1>Desarrolladora web full stack</h1>
        
         <div className='text-light'>
