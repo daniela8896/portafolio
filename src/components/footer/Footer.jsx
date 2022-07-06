@@ -3,7 +3,7 @@ import './footer.css'
 import { BsFacebook } from 'react-icons/bs'
 import { BsInstagram } from 'react-icons/bs'
 import { BsTwitter } from 'react-icons/bs'
-import logo from '../../assets/imagotipoBlancoRosa.png'
+import logo from '../../assets/imagotipoBlancoRosa.svg'
 
 const Footer = () => {
   return (
